@@ -2,7 +2,7 @@
 
 > A nodejs package to get dates in a month in ISO format.
 
-[![NPM](https://img.shields.io/npm/v/dates-in-month.svg)](https://img.shields.io/npm/v/dates-in-month) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) (https://img.shields.io/npm/l/dates-in-month)
+[![NPM](https://img.shields.io/npm/v/dates-in-month.svg)](https://img.shields.io/npm/v/dates-in-month) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
@@ -13,7 +13,7 @@ npm install --save dates-in-month
 ## Usage
 
 - **getDatesInMonth()**
-> This method accept object of month and year and return array of dates in the month.
+> This method accepts object of month and year and return array of dates in the month.
 
 ```jsx
 
