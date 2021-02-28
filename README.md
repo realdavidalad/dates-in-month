@@ -13,7 +13,7 @@ npm install --save dates-in-month
 ## Usage
 
 - **getDatesInMonth()**
-> This method accept object of month and year and return array of dates in the month.
+> This method accepts object of month and year and return array of dates in the month.
 
 ```jsx
 
