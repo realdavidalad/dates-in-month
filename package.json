@@ -11,8 +11,10 @@
     "months",
     "dates-in-month"
   ],
-  "author": "David Olugbenga Aladeusi",
+  "author": "David G. Aladeusi",
   "license": "ISC",
+  "homepage":"https://github.com/realdavidalad/dates-in-month",
+  "repository":"https://github.com/realdavidalad/dates-in-month",
   "dependencies": {
     "days-in-month": "^0.1.0"
   }
